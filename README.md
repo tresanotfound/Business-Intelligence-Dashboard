@@ -14,17 +14,17 @@ The main objectives of this project are:
 
 ## Folder Structure
 business-intelligence-dashboard/
-├── data/                         # Input CSV files
-│ ├── Google.csv
-│ ├── Facebook.csv
-│ ├── TikTok.csv
-│ └── business.csv 
-├── app.py                        # Main Streamlit application
-├── data_prep.py                  # Data cleaning & metric calculations
-├── requirements.txt              # Python dependencies
-├── README.md                     # Project documentation
-├── LICENSE                       # Project license (optional)
-├── .gitignore                    # Git ignore rules
+-├── data/                         # Input CSV files
+-│ ├── Google.csv
+-│ ├── Facebook.csv
+-│ ├── TikTok.csv
+-│ └── business.csv 
+-├── app.py                        # Main Streamlit application
+-├── data_prep.py                  # Data cleaning & metric calculations
+-├── requirements.txt              # Python dependencies
+-├── README.md                     # Project documentation
+-├── LICENSE                       # Project license (optional)
+-├── .gitignore                    # Git ignore rules
 
 
 ## Approach
