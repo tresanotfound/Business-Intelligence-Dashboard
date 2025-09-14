@@ -12,21 +12,6 @@ The main objectives of this project are:
 - Provide interactive visualizations to support quick decision-making.  
 - Serve as a prototype for integrating marketing analytics in business intelligence workflows.
 
-## Folder Structure
-business-intelligence-dashboard/:
--├── data/                         # Input CSV files
--│ ├── Google.csv
--│ ├── Facebook.csv
--│ ├── TikTok.csv
--│ └── business.csv 
--├── app.py                        # Main Streamlit application
--├── data_prep.py                  # Data cleaning & metric calculations
--├── requirements.txt              # Python dependencies
--├── README.md                     # Project documentation
--├── LICENSE                       # Project license (optional)
--├── .gitignore                    # Git ignore rules
-
-
 ## Approach
 1. **Data Collection:** Import marketing data from multiple CSV files.  
 2. **Data Cleaning & Preparation:**  
