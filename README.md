@@ -13,7 +13,7 @@ The main objectives of this project are:
 - Serve as a prototype for integrating marketing analytics in business intelligence workflows.
 
 ## Folder Structure
-business-intelligence-dashboard/
+business-intelligence-dashboard/:
 -├── data/                         # Input CSV files
 -│ ├── Google.csv
 -│ ├── Facebook.csv
