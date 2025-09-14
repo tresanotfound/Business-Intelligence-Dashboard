@@ -1,0 +1,12 @@
+marketing_dashboard/
+├── app.py              # Main Streamlit app
+├── data_prep.py        # Data cleaning & metrics
+├── requirements.txt    # Python dependencies for Streamlit deployment
+├── README.md           # Project documentation
+├── .gitignore          # Git ignore rules (for caches, env, logs)
+├── LICENSE             # Optional: MIT License
+├── data/               # dataset files
+│   ├── Google.csv
+│   ├── Facebook.csv
+│   ├── TikTok.csv
+│   └── business.csv
